@@ -1,2 +1,3 @@
-// Local development uses the local API. Replace this value with your Render URL before publishing.
-export const API_BASE_URL = "http://localhost:3000";
+
+// Connect the frontend to the live Render backend
+export const API_BASE_URL = "https://ict251-activity8-backend.onrender.com";
